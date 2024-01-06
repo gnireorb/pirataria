@@ -3,13 +3,8 @@ title: c/Pirataria
 enableGitInfo: true
 
 module:
-  hugoVersion:
-    extended: true
-    min: "0.112.0"
-
-  workspace: hugo.work
   imports:
-    path: github.com/imfing/hextra
+  - path: github.com/imfing/hextra
 
 markup:
   goldmark:
