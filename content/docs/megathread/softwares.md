@@ -8,6 +8,12 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
 {{< /callout >}}
 
+{{< callout type="error" >}}
+- BitTorrent/μTorrent - Inclui anúncios, rastreadores e até mineradores BTC carregados com seu software. A “versão segura” do µTorrent, v2.2.1, também não é confiável devido a vulnerabidades de segurança confirmadas.
+- Avast e AVG – Notório por coletar e vender dados de usuários.
+- Qualquer software da empresa Piriform (Speecy, Recuva, Defraggler, CCleaner).
+{{< /callout >}}
+
 ## 📑 ➜ Downloads Diretos
 
 ### [RSLOAD](https://rsload.net/)

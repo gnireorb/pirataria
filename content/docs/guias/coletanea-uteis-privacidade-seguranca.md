@@ -36,8 +36,6 @@ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossig
 
 - [Fuck Windows 11 Recent History](https://gist.github.com/gnireorb/38b024d42f22b2f13b6525a273f498b5) - Ignore o Histórico Recente do Windows 11.
 
-- [BurntSushi](https://github.com/OpenByteDev/burnt-sushi) - Bloqueador de anúncios do Spotify para Windows.
-
 ### Realmente bom
 
 - [spot-dl](https://github.com/spotDL/spotify-downloader) - Baixe suas playlists e músicas do Spotify com arte do álbum e metadados (do YouTube se encontrar correspondência).
@@ -76,9 +74,7 @@ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossig
 
 - [Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - Um cliente Reddit focado em privacidade para Android.
 
--
-
- [FFUpdater](https://github.com/Tobi823/ffupdater) - Atualizador para navegador amigável à privacidade.
+- [FFUpdater](https://github.com/Tobi823/ffupdater) - Atualizador para navegador amigável à privacidade.
 
 - [Aegis](https://github.com/beemdevelopment/Aegis) - Um aplicativo gratuito, seguro e de código aberto para Android para gerenciar seus tokens de verificação em duas etapas.
 

@@ -58,3 +58,27 @@ Para obter uma lista de uploaders dos quais você deve ficar longe, verifique a 
 - Este repacker é amplamente considerado como um dos melhores no cenário de videogames piratas, conquistando a confiança dos jogadores em todos os lugares.
 - Para usar, você precisa se cadastrar. Interface em russo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/byxatab.com/)
+
+## ➜ Trainers (cheats, hacks, mods)
+
+{{< callout type="error" >}}
+Estes não são para jogos online. Não use cheats, trainers, mods ou hacks em jogos online!
+{{< /callout >}}
+
+### [Fearless Revolution](https://fearlessrevolution.com/)
+- Tem tabelas para o Cheat Engine.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/fearlessrevolution.com/)
+### [Nexus Mods](https://www.nexusmods.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/nexusmods.com/)
+
+## 📑 ➜ Jogos específicos
+
+### Minecraft
+#### [SKlauncher](https://skmedix.pl/)
+- Para baixar, desative o adblock 
+- Launcher de Minecraft.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/skmedix.pl/)
+
+{{< callout type="error" >}}
+TLauncher - contém spyware.
+{{< /callout >}}
