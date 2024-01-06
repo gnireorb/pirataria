@@ -5,7 +5,7 @@ type: docs
 Software é uma coleção de programas de computador junto com arquivos de suporte e informações voltadas mais para computadores de mesa.
 
 {{< callout type="info" >}}
-Visite nossa seção de [sites gerais](~/sites-geral) para mais opções de download!
+Visite nossa seção de [sites gerais]({{< ref "/megathread/site-geral" >}}) para mais opções de download!
 {{< /callout >}}
 
 {{< callout type="warning" >}}
