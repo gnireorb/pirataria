@@ -59,7 +59,7 @@ Para obter uma lista de uploaders dos quais você deve ficar longe, verifique a 
 - Para usar, você precisa se cadastrar. Interface em russo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/byxatab.com/)
 
-## ➜ Trainers (cheats, hacks, mods)
+## ⚙️ ➜ Trainers (cheats, hacks, mods)
 
 {{< callout type="error" >}}
 Estes não são para jogos online. Não use cheats, trainers, mods ou hacks em jogos online!
@@ -71,7 +71,7 @@ Estes não são para jogos online. Não use cheats, trainers, mods ou hacks em j
 ### [Nexus Mods](https://www.nexusmods.com/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nexusmods.com/)
 
-## 📑 ➜ Jogos específicos
+## 🕹️ ➜ Jogos específicos
 
 ### Minecraft
 #### [SKlauncher](https://skmedix.pl/)
