@@ -4,6 +4,10 @@ type: docs
 ---
 Software é uma coleção de programas de computador junto com arquivos de suporte e informações voltadas mais para computadores de mesa.
 
+{{< callout type="info" >}}
+Visite nossa seção de [sites gerais](sites-geral) para mais opções de download!
+{{< /callout >}}
+
 {{< callout type="warning" >}}
 Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
 {{< /callout >}}
