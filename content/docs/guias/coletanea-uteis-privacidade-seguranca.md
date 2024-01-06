@@ -36,6 +36,12 @@ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossig
 
 - [Fuck Windows 11 Recent History](https://gist.github.com/gnireorb/38b024d42f22b2f13b6525a273f498b5) - Ignore o Histórico Recente do Windows 11.
 
+- [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à experiência moderna do Windows.
+
+- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows.
+
+- [Scoop](https://github.com/ScoopInstaller/Scoop) - Um instalador de linha de comando para Windows.
+
 ### Realmente bom
 
 - [spot-dl](https://github.com/spotDL/spotify-downloader) - Baixe suas playlists e músicas do Spotify com arte do álbum e metadados (do YouTube se encontrar correspondência).
@@ -103,6 +109,11 @@ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossig
 - [2fa.directory](https://2fa.directory/int/) - Fonte independente de informações sobre quais serviços suportam MFA/2FA.
 
 - [simplepdf.eu](https://simplepdf.eu/) - Site simples para editar PDFs.
+
+- [icongen](https://cthedot.de/icongen) -  Generate Web and App Icons from a single source image locally in your browser. Ideally use an SVG image (needs a set width and height in SVG). 
+
+- [ezgif](https://ezgif.com/) - ezgif.com is a simple online tool for creating, editing and converting animated GIFs, APNGs, WebP, MNG and AVIF images. You can upload and edit GIFs up to 100MB, resize videos, optimize and split GIFs, and more.
+
 
 ### Menções honrosas
 

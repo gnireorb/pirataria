@@ -81,7 +81,6 @@ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossig
 #### [LibreTorrent](https://f-droid.org/packages/org.proninyaroslav.libretorrent/)
 - Cliente de torrent de código aberto e sem anúncios para Android.
 
----
 ## 📣 ➜ Grupos/Canais no Telegram
 
 #### [MCPE APK Releases](https://t.me/mcperelease)
