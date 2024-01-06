@@ -2,6 +2,7 @@
 title: 🪶 ➜ Guias
 type: docs
 prev: docs/megathread/
+toc: false
 sidebar:
   open: true
 ---
