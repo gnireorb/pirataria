@@ -62,7 +62,7 @@ Para obter uma lista de uploaders dos quais você deve ficar longe, verifique a 
 ## ⚙️ ➜ Trainers (cheats, hacks, mods)
 
 {{< callout type="error" >}}
-Estes não são para jogos online. Não use cheats, trainers, mods ou hacks em jogos online!
+São para jogos offline. Não use cheats, trainers, mods ou hacks em jogos online!
 {{< /callout >}}
 
 ### [Fearless Revolution](https://fearlessrevolution.com/)

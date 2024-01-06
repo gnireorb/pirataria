@@ -21,7 +21,7 @@ sidebar:
 ### 🎮 [Jogos](jogos)
 - Os jogos requerem interação com uma interface de usuário ou dispositivo de entrada, como um controlador ou teclado, para produzir feedback audiovisual divertido.
 
-### 🎮 [Jogos 2](jogos-piratas)
+### 🎮 [Jogos Piratas](jogos-piratas)
 - Os jogos requerem interação com uma interface de usuário ou dispositivo de entrada, como um controlador ou teclado, para produzir feedback audiovisual divertido.
 
 ### 🎦 [Filmes, Séries, Animes e TV](filmes-series-animes-tv)
