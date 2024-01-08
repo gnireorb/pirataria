@@ -1,5 +1,5 @@
 ---
-title: 🎮 ➜ Jogos
+title: Jogos
 type: docs
 ---
 Os jogos requerem interação com uma interface de usuário ou dispositivo de entrada, como um controlador ou teclado, para produzir feedback audiovisual divertido.

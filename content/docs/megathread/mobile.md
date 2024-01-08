@@ -1,5 +1,5 @@
 ---
-title: 📱 ➜ Mobile
+title: Mobile
 type: docs
 ---
 Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalidade de computação e telefone em um único sistema operacional, como Android ou iOS.

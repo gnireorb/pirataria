@@ -1,5 +1,5 @@
 ---
-title: 📜 ➜ c/Pirataria
+title: c/Pirataria
 type: docs
 next: docs/megathread/
 ---

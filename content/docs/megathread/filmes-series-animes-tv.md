@@ -1,5 +1,5 @@
 ---
-title: 🎦 ➜ Filmes, Séries, Animes e TV
+title: Filmes, Séries, Animes e TV
 type: docs
 ---
 Filmes e TV são obras de arte visual que empregam imagens em movimento para imitar experiências, percepções, sentimentos e beleza.

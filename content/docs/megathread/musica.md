@@ -1,5 +1,5 @@
 ---
-title: 🎹 ➜ Música
+title: Música
 type: docs
 ---
 A música é a habilidade de organizar o som para produzir qualquer combinação de forma, harmonia, melodia, ritmo ou outro conteúdo expressivo.

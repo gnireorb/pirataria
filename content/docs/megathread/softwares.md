@@ -1,5 +1,5 @@
 ---
-title: ⚙️ ➜ Softwares
+title: Softwares
 type: docs
 ---
 Software é uma coleção de programas de computador junto com arquivos de suporte e informações voltadas mais para computadores de mesa.

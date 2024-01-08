@@ -1,5 +1,5 @@
 ---
-title: 📚 ➜ Livros
+title: Livros
 type: docs
 ---
 Livros, como mangás, quadrinhos e romances, são um meio de registro de informações que incluem páginas compostas de texto, imagens ou ambos.

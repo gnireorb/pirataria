@@ -1,5 +1,5 @@
 ---
-title: 🎮 ➜ Jogos Piratas
+title: Jogos Piratas
 type: docs
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 🧭 ➜ Sites de Uso Geral
+title: Sites de Uso Geral
 type: docs
 ---
 Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadores e rastreadores DHT para encontrar o máximo de conteúdo público possível.
