@@ -13,7 +13,23 @@ markup:
   highlight:
     noClasses: false
 
-defaultContentLanguage: pt
+defaultContentLanguage: pt-br
+defaultContentLanguageInSubdir: true
+languages:
+  pt-br:
+    contentDir: content/
+    disabled: false
+    languageCode: pt-BR
+    languageDirection: ltr
+    languageName: Português (Brasileiro)
+    weight: 1
+  pt:
+    contentDir: content/
+    disabled: false
+    languageCode: pt
+    languageDirection: ltr
+    languageName: Português (Portugal)
+    weight: 2
 
 menu:
   main:
