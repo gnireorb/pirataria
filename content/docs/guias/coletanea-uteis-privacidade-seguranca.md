@@ -1,6 +1,7 @@
 ---
 title: Coletânea de coisas úteis para privacidade e segurança
-type: docs
+sidebar:
+  exclude: true
 ---
 Aqui está uma Coletânea de coisas úteis para privacidade e segurança que fui acumulando com o tempo.
 

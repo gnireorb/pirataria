@@ -1,6 +1,7 @@
 ---
 title: Guia para uma ratio melhor
-type: docs
+sidebar:
+  exclude: true
 ---
 Um bom rastreador requer que você carregue o que você baixou. 
 

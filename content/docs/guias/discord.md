@@ -1,6 +1,7 @@
 ---
 title: Porque é que não se pode confiar no Discord
-type: docs
+sidebar:
+  exclude: true
 ---
 
 ## A minha perspetiva

@@ -1,6 +1,7 @@
 ---
 title: Como verificar um arquivo no VirusTotal corretamente
-type: docs
+sidebar:
+  exclude: true
 ---
 
 Guia útil para ajudá-lo em suas viagens marítimas.

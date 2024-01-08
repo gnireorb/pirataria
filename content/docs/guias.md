@@ -1,10 +1,9 @@
 ---
 title: 🪶 ➜ Guias
-type: docs
 prev: docs/megathread/
 toc: false
-sidebar:
-  open: false
+cascade:
+  type: docs
 ---
 Publicações úteis para ajudá-lo em suas viagens marítimas.
 
