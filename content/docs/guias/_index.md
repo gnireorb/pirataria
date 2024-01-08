@@ -4,7 +4,7 @@ type: docs
 prev: docs/megathread/
 toc: false
 sidebar:
-  open: true
+  open: false
 ---
 Publicações úteis para ajudá-lo em suas viagens marítimas.
 
