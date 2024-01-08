@@ -13,6 +13,8 @@ markup:
   highlight:
     noClasses: false
 
+defaultContentLanguage: pt
+
 menu:
   main:
     - name: Documentação
