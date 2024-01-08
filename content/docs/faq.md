@@ -41,7 +41,6 @@ type: docs
 
 &nbsp;
 
----
 ## 📑 ➜ Downloads, torrents e VPNs
 
 ### ❔ Qual é a diferença entre downloads diretos e torrents?
@@ -60,7 +59,6 @@ type: docs
 
 &nbsp;
 
----
 ## 📑 ➜ Moral
 
 ### ❔ Que vantagens as cópias piratas têm sobre cópias legais?
