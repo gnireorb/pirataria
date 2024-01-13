@@ -48,7 +48,7 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/c-pirataria/c-pirataria.github.io"
+      url: "https://github.com/c-pirataria/megathread-hextra/"
       params:
         icon: github
 
@@ -86,4 +86,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/c-pirataria/c-pirataria.github.io/edit/main/content"
+    base: "https://github.com/c-pirataria/megathread-hextra/edit/main/content"
