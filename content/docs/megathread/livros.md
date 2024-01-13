@@ -23,6 +23,11 @@ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossig
 - Para usar, você precisa se cadastrar.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/singlelogin.re/)
 
+### [Archive.org](archive.org/details/texts?sort=-publicdate&and[]=language%3A"Portuguese")
+- eBooks e Textos.
+- Encontre quase 76 mil de livros e materiais de acesso livre em Português.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
+
 ## 📑 ➜ Aplicativos para Computador
 
 ### [Calibre](https://github.com/kovidgoyal/calibre) (Multiplataforma)
