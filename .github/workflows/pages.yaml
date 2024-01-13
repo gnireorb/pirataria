@@ -53,8 +53,7 @@ jobs:
           HUGO_ENV: production
         run: |
           hugo \
-            --gc --minify \
-            --baseURL "https://${{ github.repository_owner }}.github.io/megathread-hextra/"
+            --gc --minify"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
