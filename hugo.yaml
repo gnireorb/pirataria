@@ -1,4 +1,4 @@
-title: c/Pirataria
+title: Pirataria
 
 enableGitInfo: true
 
@@ -40,7 +40,7 @@ menu:
       pageRef: /sobre
       weight: 2
     - name: Contato ↗
-      url: "https://github.com/c-pirataria"
+      url: "https://github.com/gnireorb"
       weight: 3
     - name: Pesquisa
       weight: 4
@@ -48,7 +48,7 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/c-pirataria/megathread-hextra/"
+      url: "https://github.com/gnireorb/pirataria/"
       params:
         icon: github
 
@@ -75,7 +75,7 @@ params:
     displayPoweredBy: false
 
   displayUpdatedDate: true
-  dateFormat: "January 2, 2006"
+  dateFormat: "2 de January de 2006"
 
   search:
     enable: true
@@ -86,4 +86,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/c-pirataria/megathread-hextra/edit/main/content"
+    base: "https://github.com/gnireorb/pirataria/edit/main/content"
