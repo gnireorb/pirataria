@@ -1,8 +1,12 @@
-# 🧵 ➜ Trackers
+---
+title: Trackers
+sidebar:
+  exclude: true
+---
 
 Trackers são servidores que requerem interação com um cliente de torrent, como um software específico, para facilitar o download de arquivos compartilhados de forma colaborativa pela comunidade de compartilhamento de arquivos.
 
-## 📑 ➜ Trackers Brasileiros
+## 🧵 ➜ Trackers Brasileiros
 
 ### 🧲 [Amigos Share Club](https://cliente.amigos-share.club/) | ASC
 
@@ -16,7 +20,7 @@ Trackers são servidores que requerem interação com um cliente de torrent, com
 
 ### 🧲 [Toca Share](https://tocashare.com/register) | TS
 
-## 📑 ➜ Trackers Gringo
+## 🧵 ➜ Trackers Gringo
 
 :::info ⚠️ Informação
 PU = Power User (usuário avançado). A primeira classificação quando você sobe de nível. Você precisa ter essa classificação para poder acessar o fórum de convites de um tracker.
