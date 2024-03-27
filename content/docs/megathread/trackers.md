@@ -1,6 +1,7 @@
 ---
 title: Trackers
 type: docs
+toc: false
 ---
 
 Trackers são servidores que requerem interação com um cliente de torrent, como um software específico, para facilitar o download de arquivos compartilhados de forma colaborativa pela comunidade de compartilhamento de arquivos.
