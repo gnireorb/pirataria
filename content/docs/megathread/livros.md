@@ -49,7 +49,7 @@ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossig
 
 ## 📑 ➜ Streaming
 
-➜ Os sites abaixo são gringos e apenas oferecem conteúdos em inglês
+Os sites abaixo são gringos e apenas oferecem conteúdos em inglês
 
 ### [ÁudioAZ](https://audioaz.com/)
 - Fornece uma biblioteca considerável de audiolivros que podem ser baixados ou ouvidos na Internet por qualquer pessoa.
