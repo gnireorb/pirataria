@@ -22,9 +22,9 @@ Trackers são servidores que requerem interação com um cliente de torrent, com
 
 ## 🧲 ➜ Trackers Gringo
 
-:::info ⚠️ Informação
+{{< callout type="info" >}}
 PU = Power User (usuário avançado). A primeira classificação quando você sobe de nível. Você precisa ter essa classificação para poder acessar o fórum de convites de um tracker.
-:::
+{{< /callout >}}
 
 ### [AlphaRatio](https://alpharatio.cc/) | AR
 
