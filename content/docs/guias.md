@@ -13,7 +13,7 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 - [Como desbloquear sites bloqueados pelas operadoras](https://phtn.app/post/lemmy.dbzer0.com/146129) - Guia feito por [u/Dreadwhole](https://phtn.app/u/Dreadwhole@lemmy.dbzer0.com)
 - [Tutorial de como instalar uBlock Origin pre-configurado com Hagezi + TwitchAdSolutions](https://phtn.app/post/lemmy.dbzer0.com/146206) - Guia feito por [u/Dreadwhole](https://phtn.app/u/Dreadwhole@lemmy.dbzer0.com)
 - [Ah, se eu pudesse traduzir conteúdos em tempo real!](https://phtn.app/post/lemmy.dbzer0.com/4186580) - Guia feito por [u/Dreadwhole](https://phtn.app/u/Dreadwhole@lemmy.dbzer0.com)
-- [Coletânea de coisas úteis para privacidade e segurança](coletanea-uteis-privacidade-seguranca.md) - Guia feito por [u/Broering](https://phtn.app/u/broering@lemmy.eco.br)
+- [Coletânea de coisas úteis para privacidade e segurança](coletanea-uteis-privacidade-seguranca) - Guia feito por [u/Broering](https://phtn.app/u/broering@lemmy.eco.br)
 - [Porque é que não se pode confiar no Discord](discord) - Guia traduzido por [u/Broering](https://phtn.app/u/broering@lemmy.eco.br)
 - [Como abrir portas no roteador em rede CGNAT](cgnat-portas) - Guia feito por Smeagol e [u/Wandrey](https://lemmy.eco.br/u/wandrey)
 - [Guia para uma ratio melhor](ratio-melhor) - Guia feito por [u/Wandrey](https://lemmy.eco.br/u/wandrey)

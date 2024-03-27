@@ -30,20 +30,15 @@ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossig
   
 ### [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
 - O downloader de música multiplataforma sem anúncios não requer geração ou ajustes nas chaves de API para funcionar.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
   
 ### [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - Pode baixar músicas e vídeos de mais de 1500 sites, como Crunchyroll, Funimation, SoundCloud, Bandcamp etc.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### [SpotX](https://github.com/SpotX-Official/SpotX)
 - Bloqueador de anúncios do Spotify.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### [burnt-sushi](https://github.com/OpenByteDev/burnt-sushi)
 - Bloqueador de anúncios do Spotify para Windows.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### [BlockTheSpot](https://github.com/mrpond/BlockTheSpot)
 - Video, audio & banner adblock para Spotify.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)

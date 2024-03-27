@@ -75,7 +75,7 @@ São para jogos offline. Não use cheats, trainers, mods ou hacks em jogos onlin
 
 ### Minecraft
 #### [SKlauncher](https://skmedix.pl/)
-- Para baixar, desative o adblock 
+- Para baixar, desative o adblock.
 - Launcher de Minecraft.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/skmedix.pl/)
 

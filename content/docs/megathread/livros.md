@@ -10,18 +10,18 @@ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossig
 
 ## 📑 ➜ Downloads diretos
 
-### [Bibliomar](https://bibliomar.com/search)
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bibliomar.com/)
-
 ### [Library Genesis](https://libgen.is/) / [2](https://libgen.rs/) / [3](https://libgen.st/)
 - Livros de engenharia e ciências naturais estão sendo colecionados pela comunidade científica.
 - Aqui está uma [versão divertida do principal Library Genesis](https://libgen.fun/) com ênfase em quadrinhos e mangás.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/libgen.is/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/libgen.rs/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/libgen.st/)
 
-### [Projeto Z-Library](https://singlelogin.re/)
+### [Projeto Z-Library](https://singlelogin.re/) / [2](https://zlibrary-global.se/)
 - Esforço de compartilhamento de arquivos para artigos de periódicos acadêmicos, textos acadêmicos e livros de interesse geral.
 - Para usar, você precisa se cadastrar.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/singlelogin.re/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/zlibrary-global.se/)
 
 ### [Archive.org](archive.org/details/texts?sort=-publicdate&and[]=language%3A"Portuguese")
 - eBooks e Textos.
