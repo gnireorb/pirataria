@@ -1,5 +1,6 @@
 ---
 title: Trackers
+type: docs
 sidebar:
   exclude: true
 ---
